@@ -1,9 +1,9 @@
 FROM jenkins/jenkins:lts
 
-# install docker, docker-compose, docker-machine
-# see: https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/
-# see: https://docs.docker.com/engine/installation/linux/linux-postinstall/
-# see: https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/
+## install docker, docker-compose, docker-machine
+## see: https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/
+## see: https://docs.docker.com/engine/installation/linux/linux-postinstall/
+## see: https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/
 
 USER root
 
